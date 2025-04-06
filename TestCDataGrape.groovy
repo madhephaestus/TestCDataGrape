@@ -1,4 +1,4 @@
-@Grab(group='com.neuronrobotics', module='cdata-java', version='0.0.8')
+@Grab(group='com.neuronrobotics', module='cdata-java', version='0.0.9')
 
 import com.cdata.CData;
 String schema = "{\"value1\": \"FLOAT\", \"value2\": \"INT\"}";
